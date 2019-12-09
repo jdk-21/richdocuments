@@ -13,5 +13,5 @@
             "email": "jus@bitgrid.net"
         }
     ],
-    "require": { "php": "true" }
+    "require": {}
 }
